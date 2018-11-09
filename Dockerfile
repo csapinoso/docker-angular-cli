@@ -1,4 +1,4 @@
-FROM node:carbon-stretch
+FROM node:dubnium-stretch
 
 LABEL maintainer="Charton Sapinoso <csapinoso@isbx.com>"
 
